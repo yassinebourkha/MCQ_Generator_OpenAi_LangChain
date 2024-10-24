@@ -16,7 +16,7 @@ This project is an **AI-powered application** that generates custom multiple-cho
 - **Real-Time Processing**: Instant feedback and question generation using OpenAI’s capabilities.
 - **Customizable Question Count**: Users can specify how many questions they want generated.
 
-![App Screenshot](./path-to-your-image-file.png) <!-- Replace with the actual path to your screenshot -->
+![App Screenshot](./screenshot.png) <!-- Replace with the actual path to your screenshot -->
 
 ## How It Works
 
