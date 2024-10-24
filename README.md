@@ -25,12 +25,6 @@ This project is an **AI-powered application** that generates custom multiple-cho
 3. **Generate MCQs**: The app uses **OpenAI's GPT model** and **LangChain** to generate relevant questions along with multiple answer choices and correct answers.
 4. **View Results**: Questions and answers are displayed in a user-friendly format with an option for review.
 
-### Example Output
-
-| MCQ | Choices | Correct Answer |
-| --- | ------- | -------------- |
-| What is generative artificial intelligence (generative AI, GenAI, or GAI)? | a-> A subset of artificial intelligence that uses generative models to produce text, images, videos, or other forms of data b-> A subset of artificial intelligence that focuses on robotics and automation c-> A subset of artificial intelligence that specializes in speech recognition and natural language processing d-> A subset of artificial intelligence that focuses on computer vision and image recognition | a |
-| Which advancements enabled an AI boom of generative AI systems in the early 2020s? | a-> Variational autoencoder and generative adversarial network b-> Markov chains and symbolic AI methods c-> Long-Short Term Memory models and state space search d-> Transformer network and GPT models | a |
 
 ## Technologies Breakdown
 
