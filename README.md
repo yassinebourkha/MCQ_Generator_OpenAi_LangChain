@@ -4,7 +4,7 @@ This project is an **AI-powered application** that generates custom multiple-cho
 
 ## Technologies Used
 
-- **OpenAI GPT-3.5/4 API**: Used for natural language processing and question generation. GPT models analyze the uploaded documents and extract relevant content to create high-quality MCQs.
+- **OpenAI GPT-3.5 API**: Used for natural language processing and question generation. GPT models analyze the uploaded documents and extract relevant content to create high-quality MCQs.
 - **LangChain**: A framework that facilitates the management of multiple AI model components and data processing. LangChain was utilized to manage the interaction between the document analysis and MCQ generation processes.
 - **Streamlit**: The frontend interface for the application, allowing users to upload files, specify parameters, and display results in real-time.
 - **Python**: Core programming language used for backend development and API integration.
