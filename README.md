@@ -33,7 +33,4 @@ This project is an **AI-powered application** that generates custom multiple-cho
 3. **Streamlit**: An open-source Python library used to create the web interface that allows users to upload files, choose parameters, and visualize generated MCQs.
 4. **Python**: Used for backend logic, API calls, and integrating OpenAI with LangChain for the question-generation process.
 
-## Setup and Installation
-
-Follow these steps to set up and run the project on your local machine:
 
